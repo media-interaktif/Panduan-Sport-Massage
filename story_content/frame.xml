@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="rtl" textengine="DirectWrite" device="true" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Panduan Sport Massage" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="false">
+            <options>
+              <option name="sidebarpos" value="right" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="false" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="totalelapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="false" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="false" />
+          <option name="closed_captions" value="false">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+          <option name="settings" value="false" />
+          <option name="fullScreenToggle" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="false" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00000000000">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns00000000001">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns00000000001">
+      <string id="three_image_progress_audio">progress</string>
+      <string id="three_image_audio">audio</string>
+      <string id="three_image_camera_down">camera moved down</string>
+      <string id="three_image_camera_left">camera moved left</string>
+      <string id="three_image_camera_right">camera moved right</string>
+      <string id="three_image_camera_up">camera moved up</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
+      <string id="three_image_label">label</string>
+      <string id="three_image_marker">marker</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
+      <string id="three_image_pause_audio">pause audio</string>
+      <string id="three_image_pause_video">pause video</string>
+      <string id="three_image_play_audio">play audio</string>
+      <string id="three_image_play_video">play video</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
+      <string id="three_image_tooltip">tooltip</string>
+      <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_video">video</string>
+      <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
+      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
+      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Open Sans">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6RK2n0fONRp" displaytext="Home" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6RK2n0fONRp.5ZfERScP4pC" displaytext="Home" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5azcERMhJGz" displaytext="KD" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5azcERMhJGz.5jP9nke12CY" displaytext="KD" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Ar3HzHYarp" displaytext="KD Animate" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Ar3HzHYarp.6ATAX7YBg3D" displaytext="KD Animate" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6ou19abxWvp" displaytext="Materi 1" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6ou19abxWvp.6kAtg9JLhtF" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.6TyLM9yfPOo" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.6g9RCQbGZeH" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.5mggOS6RdWB" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.5YU5PtKpv6O" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.6L7NwBatslL" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.6mbSZW3gi2r" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.62YkVlxOjPT" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.5i9FlIOkZtY" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.5WwB0lRtPxb" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.6Xmxy7griIi" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.6U5TZmkBpyu" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.6YrunNpjmIh" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.5c3zm7UXnf9" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6ou19abxWvp.63ld4j3vHLn" displaytext="Materi" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Ocz4pmTuON" displaytext="Materi 2" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Ocz4pmTuON.5ubkhtTiIEC" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.6IoVsqwKDFd" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.6LF1tFLbq6p" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.68i6JSWu4Xc" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.5VcGl5ntKda" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.6RK26ySU4sX" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.66d8QqmMRcA" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.6O4SYh10GxR" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.5tnUC0Oe1oL" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.5ZWthvp2nHo" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.5c4XwLndCcb" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.5aQYfaueZUP" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.6TM7iqUm6yy" displaytext="Materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6Ocz4pmTuON.6oftvSauiSP" displaytext="Materi" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6IQ54F68uZa" displaytext="Kuis" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6IQ54F68uZa.6aD6gv4hU5p" displaytext="Kuis " expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6XeHnhZIdUu" displaytext="Profil" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6XeHnhZIdUu.5nCs4zbIE4F" displaytext="Profil" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5mKFaxSanTL" displaytext="backup" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5mKFaxSanTL.6Ur5Y8XaAKr" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5vBqRF3EQVz" displaytext="Evalu 1" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5vBqRF3EQVz.6Lo1jxpXl1U" displaytext="Negara yang pertama kali menerima teknik masase olahraga pada pesertanya adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vBqRF3EQVz.5vH36ThzhAD" displaytext="Negara yang menerbitkan artikel tentang fisiologi masase adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vBqRF3EQVz.68b0Rfp10ob" displaytext="Pada tahun 1986, Amerika meluncurkan Tim Masase Olahraga Nasional untuk mempromosikan Masase bagi para atlet. Tim masase olahraga nasional tersebut dikenal dengan sebutan …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vBqRF3EQVz.5dMe2ssTelS" displaytext="Sebelum masase olahraga berkembang, berikut negara yang melakukan praktik manusia pertama untuk memelihara kesehatan tubuh saja, tetapi juga sebagai salah satu cara pengobatan yaitu …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vBqRF3EQVz.5uIknGsuKPS" displaytext="Masase olahraga meluas ke seluruh Rusia karena atlet-atlet Rusia memilih masase olahraga sebagai cara yang dapat mendukung kekuatan fisiknya. Beberapa atlet melakukan masase untuk dirinya sendiri. Atlet yang menggunakan masase untuk dirinya sendiri merupakan atlet pada cabang olahraga …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vBqRF3EQVz.5WszKmGsh07" displaytext="Masase olahraga meluas ke seluruh Rusia karena atlet-atlet Rusia memilih masase olahraga sebagai cara yang dapat mendukung kekuatan fisiknya. Beberapa atlet melakukan masase untuk dirinya sendiri. Atlet yang menggunakan masase untuk dirinya sendiri merupakan atlet pada cabang olahraga …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vBqRF3EQVz.6Y2ExCaL0n6" displaytext="Dari pernyataan di bawah, tentukan definisi masase olahraga yang sesuai!" expand="false" type="slide" />
+            <slidelink slideid="_player.5vBqRF3EQVz.6YW9FuktfIC" displaytext="Pada umumnya para praktisi Massage menyebut dirinya dengan istilah “masseur” untuk pria jika praktisi tersebut wanita disebut …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vBqRF3EQVz.5ohomzofMdr" displaytext="Perhatikan pernyataan berikut ini! Sports massage membantu dalam menghilangkan tumpukan asam laktat. Sports massage membantu otot dalam mengambil oksigen dan gizi yang lebih cepat sehingga mempercepat proses penyembuhan. Sports massage untuk melepaskan ketegangan otot yang disebabkan karena kelebihan aktivitas fisik. Sports massage membantu menghilangkan stress pikiran seorang atlet Sports massage membantu meningkatkan elastisitas dari jaringan." expand="false" type="slide" />
+            <slidelink slideid="_player.5vBqRF3EQVz.5yi5CvOg0nx" displaytext="Sport masase dapat membantu penyerapan sisa-sisa pembakaran yang tidak diperlukan lagi. Berdasarkan pernyataan diatas, merupakan salah satu efek fisiologi masase terhadap …" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5vUhanV0bRz" displaytext="Evalu 2" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5vUhanV0bRz.5lTpSuHoWzh" displaytext="Massage mempunyai peranan penting dalam keseimbangan antara sirkulasi perifer dan sirkulasi daerah bagian dalam. Berikut ini yang termasuk pengaruh massage terhadap kulit dalam hal sirkulasi darah yaitu …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vUhanV0bRz.5rBSslJGjMt" displaytext="Manipulasi massage akan berpengaruh kepada sirkulasi darah dan limfa, yang akan terjadi pada sirkulasi darah adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vUhanV0bRz.6aUsCg1pZrD" displaytext="Salah satu teknik massage yang berfungsi untuk membantu melancarkan peredaran darah dan cairan getah bening (cairan limpa) mengalirkan kembali darah pada pembuluh balik atau vena agar cepat kembali ke jantung adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vUhanV0bRz.6FtN86gx7Fm" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5vUhanV0bRz.5lXQ5tyd2oD" displaytext="Manipulasi penenang diberikan untuk melawan ketidak seimbangan saraf yang berlebihan, nyeri dan kegelisahan. Teknik massage yang memeberikan efek menenangkan adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vUhanV0bRz.69FRv57h7KA" displaytext="Tappotement yang dilakukan dengan lembut memberikan refek menenangkan dan menyegarkan sedangkan Tappotement yang dilakukan dengan tekanan yang kuat akan memberikan efek …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vUhanV0bRz.5vntgvuPKj1" displaytext="Efek sinergis daoat dihasilkan oleh massage jaringan yang menutupi rongga-rongga penting dari tubuh, seperti …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vUhanV0bRz.5uP3C58DU4K" displaytext="Untuk dapat mempengaruhi organ dalam harus dipergunakan prosedur dan Teknik khusus. Efek sinergis yang dapat dihasilkan oleh massage jaringan yang menutupi rongga-rongga penting dari tubuh adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vUhanV0bRz.5avthprF1y9" displaytext="Manipulasi massage juga dapat mempengaruhi proses mekanisme reflek penghasil dan pengatur temperature tubuh, dari pernyataan diatas, masase sangat berpengaruh terhadap suhu tubuh atlet, bagaimana massage mempengaruhi suhu tubuh atlet …" expand="false" type="slide" />
+            <slidelink slideid="_player.5vUhanV0bRz.5wRZR2s8DgI" displaytext="Kulit sebagai lapisan pembungkus terakhir organ manusia terdiri dari berbagai komponen antara lain air, protein, lemak, beberapa jenis mineral dan senyawa kimia. Jaringan penutup ini mempunyai ukuran permukaan yang pada orang dewasa berukuran …" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5xg2ajgayj6" displaytext="Evalu 3" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5xg2ajgayj6.5fMFQObMMpb" displaytext="Kontra indikasi masase merupakan …" expand="false" type="slide" />
+            <slidelink slideid="_player.5xg2ajgayj6.6fgsbk7rhTs" displaytext="Pasien yang mengalami demam dengan suhu di atas normal tidak boleh dilakukan masase, hal ini disebabkan karena …" expand="false" type="slide" />
+            <slidelink slideid="_player.5xg2ajgayj6.66114oMSY0J" displaytext="Pada pasien dengan hemofilia massage seluruh tubuh tidak boleh dilakukan, hal ini disebabkan karena …" expand="false" type="slide" />
+            <slidelink slideid="_player.5xg2ajgayj6.6H6nWUzFSqp" displaytext="Dalam melakukan massage pada pasien dengan peradangan vena, risiko utama yang dapat terjadi adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5xg2ajgayj6.6XBIPxy7XwU" displaytext="Dampak massage pada pasien yang sedang mengalami peradangan akut adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5xg2ajgayj6.5luGlBFhpc7" displaytext="Massage pada bagian tertentu dari tubuh harus dihindari dalam kondisi …" expand="false" type="slide" />
+            <slidelink slideid="_player.5xg2ajgayj6.6dDVCvVvxvE" displaytext="Dampak yang mungkin terjadi jika massage dilakukan pada pasien dengan pengerasan arteri lanjut adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5xg2ajgayj6.5qM35ijNi9h" displaytext="Massage tidak boleh dilakukan pada pasien dengan riwayat tumor perut karena …" expand="false" type="slide" />
+            <slidelink slideid="_player.5xg2ajgayj6.5ZFeSUJCR8O" displaytext="Wanita yang sedang hamil muda tidak dapat diberlakukan masase karena …" expand="false" type="slide" />
+            <slidelink slideid="_player.5xg2ajgayj6.6Os77KxFDDY" displaytext="Pada pasien dengan luka yang masih baru atau pembengkakan tidak dapat dilakukan masase karena …" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5oCuDNxFk9T" displaytext="Evalu 4" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5oCuDNxFk9T.6iNaVxVRVZj" displaytext="Faktor yang paling penting diperhatikan saat memberikan massage pada atlet adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5oCuDNxFk9T.5yLZVI15RSi" displaytext="Massage pada atlet sepakbola terutama difokuskan pada bagian tubuh …" expand="false" type="slide" />
+            <slidelink slideid="_player.5oCuDNxFk9T.6dLkbu4RhkJ" displaytext="Yang sebaiknya dilakukan setelah atlet menerima massage adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5oCuDNxFk9T.5dDbXTwCPoB" displaytext="Waktu yang disarankan untuk massage pada anggota tubuh bagian bawah yaitu …" expand="false" type="slide" />
+            <slidelink slideid="_player.5oCuDNxFk9T.63PIXGiMkQg" displaytext="Massage yang dilakukan setelah pertandingan disebut …" expand="false" type="slide" />
+            <slidelink slideid="_player.5oCuDNxFk9T.6chm63km8zx" displaytext="Tujuan dari massage yang diberikan pada periode persiapan adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5oCuDNxFk9T.6A3vykM4Nc6" displaytext="Yang harus dilakukan masseur sebelum memberikan massage adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5oCuDNxFk9T.5qtx7gG73VF" displaytext="Yang menjadi perhatian utama saat memberikan massage di daerah beriklim dingin adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5oCuDNxFk9T.5WUn6tJOUJy" displaytext="Pada periode pertandingan, massage diberikan pada saat …" expand="false" type="slide" />
+            <slidelink slideid="_player.5oCuDNxFk9T.656jap4m64q" displaytext="Massage yang diberikan pada atlet yang tidak dapat mengikuti kegiatan olahraga disebut …" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6dYguNrOQyw" displaytext="UTS Massage" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6dYguNrOQyw.6M9oefHeBAZ" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5zmSX6D5K8P" displaytext="UAS Massage" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5zmSX6D5K8P.5iE2OK1i3Re" displaytext="Pada gambar di bawah ini, pemijatan yang dilakukan pada punggung berupa pemberian manipulasi  Effleurage yang benar adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.5vCLTYcCHWP" displaytext="Perhatikan gambar di bawah ini!&#xA;&#xA;&#xA;&#xA;Berdasarkan kedua gambar di atas, bahwa tujuan dari manipulasi tersebut adalah untuk membantu kerja pembuluh darah balik dan penutup pijatan. Dari gambar dan tujuan tersebut, maka jenis manipulasi yang dimaksud adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6YQUK8rDrFD" displaytext="Perhatikan gambar dan penjelasan dibawah ini!&#xA;Proses atau cara kerja pijatan pada otot paha belakang. Kedua tangan memijat secara bersama-sama sejajar berdampingan dengan ibu jari di luar (lateral), jari-jari di sisi dalam (medial) merapat dan lurus. Pijatan ini dilakukan dengan cara memijat dengan kedua tangan secara bersama-sama, mengkat, kemudian melepas kembali namun kedua tangan tetap kontak (picking up). Setiap titik dilakukan dengan 3x pemijatan. Pemijatan dimulai dari pangkal paha (batas lipat pantat ), kemudian bergeser kearah distal dan setelah sampai di atas sendi lutut kembali ke posisi semula dengan cara melakukan satu gosokan kuat, kemudian melakukan pijatan ulangan.&#xA;&#xA;&#xA;&#xA;Berdasarkan pernyataan dan gambar diatas, maka jenis manipulasi yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.5thr6dP98ko" displaytext="Perhatikan cara kerja teknik pemberian manipulasi berikut!&#xA;Dikerjakan pada daerah yang luas. Pada pinggang dan tungkai atas dilakukan dengan pergelangan tangan lemas (Rileks), Rythme (Irama) dapat diatur sesuai dengan perasaan Masseur untuk memberikan rangsangan, dikerjakan melintang otot.&#xA;Berdasarkan pernyataan diatas, cara kerja pemberian manipulasi di atas adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.62VEF3tb6Z9" displaytext="Variasi dalam Tappotement dapat dilakukan dengan tangan menggenggam jatuhkan genggaman pada bagian sisi bawah, posisi tangan lurus dari siku sampai ujung genggaman jatuhkan secara bergantian. Berdasarkan pernyataan tersebut, maka jenis variasi Tappotement tersebut adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6IM2VzLU1Lj" displaytext="Variasi dalam Tappotement dapat dilakukan dengan permukaan telapak tangan cekung jari rapat berrongga posisi tangan lurus dari siku, kedua tangan jatuhkan secara bergantian lemas dan menekan dengan klep pada poros pada persendian Carpus. Berdasarkan pernyataan tersebut, maka jenis variasi Tappotement tersebut adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6KlRjz7UaMz" displaytext="Penggunaan bahan pelincir untuk massage sangat dibutuhkan untuk mempelancar pelaksanaan beberapa manipulasi. Penggunaan bahan pelincir sebaiknya memenuhi syarat-syarat sebagai berikut:&#xA;Mudah dibersihkan (sesudah pelaksanaan massage)&#xA;Mudah menguap&#xA;Tidak mengandung wewangian yang menyolok&#xA;Memberikan ransangan dingin&#xA;Mudah didapat dan murah harganya&#xA;Pernyataan yang benar tentang bahan yang digunakan sebagai pelincir dalam massage adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.617NB8eTpAE" displaytext="Perhatikan cara kerja teknik pemberian manipulasi berikut!&#xA;Dapat dilakukan dengan menggunakan telapak tangan, ibu jari dan menggunakan siku jika area yang di aplikasikan Teknik ini memiliki permukaan yang tebal. Teknik ini bertujuan untuk mengurai timbunan sisa-sisa pembakaran kalori pada otot. Seperti kaku atau kebekuan yang terjadi dalam jaringan ikat,.manipulasi di atas adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.5Vkx5FFmscw" displaytext="Perhatikan gambar pemijatan yang dilakukan pada lengan berikut!&#xA;&#xA;&#xA;&#xA;&#xA;Berdasarkan gambar diatas, jenis manipulasi yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.5viA4fF3BCK" displaytext="Perhatikan gambar pemijatan yang dilakukan pada bagian kepala berikut!&#xA;&#xA;&#xA;&#xA;&#xA;Berdasarkan gambar diatas, jenis manipulasi yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6HR6SiUXUh2" displaytext="Perhatikan gambar pemijatan yang dilakukan pada pinggang-punggung berikut!&#xA;&#xA;&#xA;&#xA;&#xA;Berdasarkan gambar diatas, jenis manipulasi yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6l1wXBTFjN9" displaytext="Perhatikan gambar pemijatan yang dilakukan pada pinggang-punggung berikut!&#xA;&#xA;&#xA;&#xA;&#xA;Berdasarkan gambar diatas, jenis manipulasi yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.5hyXtA4jlaS" displaytext="Gerakan manipulasi ini dimaksudkan untuk merangsang syaraf vegetative pada alat-alat dalam dan luar, untuk mempengaruhi alat-alat tersebut.Tekniknya adalah anggota badan yang digoncang harus dalam keadaan rilek supaya hasilnya maksimal. Tujuan memberikan manipulasi adalah untuk mengendurkan otot, meningkatkan fleksibilitas jaringan-jaringan, menenangkan ketegangan syaraf pada daerah yang di massage. Maka teknik massage yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6Ei1gqSyfwO" displaytext="Prosedur massage dengan cara memberi tekanan, perasan pada bagian tubuh yang akan di massage. Melakukan teknik ini si masseur sebaiknya dilakukan dengan nyaman dan berirama agar pasien merasa rileks. Maka jenis manipulasi yang cocok adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6GBkwDwf0I6" displaytext="Manipulasi massage dengan gerakan memukul area yang di massage secara berirama dan terkontrol. Tappotement dapat dilakukan dengan posisi tangan mengepal, dengan telapak tangan atau dengan kedua telapak tangan di rapatkan lalu di bagian samping kelingking sebagai titik yang dikenakan ke pasien. Pukulan yang terkontrol ini memberikan rangsangan pada jaringan tubuh, dan mengakibatkan berbagai reaksi tergantung pada kecepatan, kekuatan dan waktu pukulan …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.65T5R1eGbOH" displaytext="Gerakan massage yang dilakukan dengan cara menekan jaringan menggunakan ujung ibu jari dengan tujuan untuk memecah jaringan yang menggumpal serta membantu menghancurkan myloglosis, seperti timbunan sisa-sisa pembakaran energi (asam laktat) yang terdapat pada otot yang menyebabkan pengerasan pada otot. Maka jenis manipulasi yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6qjboi475M3" displaytext="Gerakan menggoncang bagian tubuh yang akan di massage. Gerakan ini memerlukan gerakan cepat tangan karena harus menggoncang kearah kanan kiri serta bersamaan mendorong lembut kearah jantung. Gerakan disesuaikan dengan bentuk otot untuk menghindari rasa sakit yang dapat ditimbulkan. Tujuan Shaking adalah untuk memulihkan ketegangan otot, mempercepat transport informasi syaraf ke jaringan tubuh, merelaksasi otot, mencegah kekejangan otot yang diakibatkan penumpukan asam laktat yang berefek akan mengurangi ruang gerak sendi. Mempercepat pasokan gizi yang dibutuhkan pada bagian-bagian tubuh. Maka jenis manipulasi yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.5fWSqsfwrgD" displaytext="Salah satu teknik topetemen dengan memukul dengan menggunakan tepukan tangan secara bergantian. Kedua telapak tangan yang digunakan untuk memukul segmen yang sedang dikerjakan, harus membentuk cekungan, sehingga pada saat memukul muncul suara “puk” pada setiap tepukan. Hal ini sesuai dengan gambar yang ditunjukan dibawah ini.&#xA;&#xA;&#xA;&#xA;&#xA;Berdasarkan penjelasan dan gambar di atas, maka teknik massage yang dilakukan adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6DrfkD3cwYO" displaytext="Manipulasi tappotement, dilakukan dengan teknik ketokan. Jari-jari direntangkan kemudian kedua tangan dihentakkan pada tubuh yang dikerjakan secara bergantian kanan dan kiri. Perkenaan pada jari kelingking. Dengan tujuan memberikan perlakuan terhadap serabut otot yang paling luar, berdekatan dengan lapisan kulit. Teknik ini dilakukan selama 30 detik.&#xA;&#xA;&#xA;&#xA;&#xA;Berdasarkan penjelasan dan gambar di atas, maka teknik massage yang dilakukan adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.5mntTbdDSja" displaytext="Perhatikan teknik massage berikut!&#xA;Massage dengan cara memberi tekanan, perasan pada bagian tubuh yang akan di massage. Melakukan teknik ini si masseur sebaiknya dilakukan dengan nyaman dan berirama agar pasien merasa rilex. Tujuan manipulasi ini adalah untuk mengistirahatkan otot, mengurangi ketegangan otot, melunakkan kontraksi otot, memaksimalkan metabolism tubuh dan menghilangkan kelelahan, teknik manipulasi diatas adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6AZaI5ZafId" displaytext="Perhatikan teknik massage berikut ini!&#xA;Dua tangan, setelah tungkai rileks, pergelangan kaki pasien disangga dengan bahu, posisi masseur menghadap pasien, Shaking dilakukan dengan gerakan memilin pada betis. Dilakukan kira-kira 10 detik. Manipulasi yang dimaksud adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.66Kh0InMglW" displaytext="Seorang atlet mengikuti pertandingan lari jarak jauh mengalami kelelahan pada otot gastrocnemius dan otot solius setelah melakukan aktivitas lari, penumpukan asam laktak pada daerah otot tersebut, perlu diberikan massage. Dari pernyataan di atas, tentukan massa apa yang cocok, arah gerakan tangan dan manipulasi yang diberikan sehingga memberikan kebugaran pada atlet tersebut?" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.68pz2INJeSw" displaytext="Sebagai seorang mesiur harus mengetahui dan bisa menentukan manipulasi yang diberikan pada saat melakukan massage. Dalam manipulasi paha atau tungkai atas dibagi menjadi dua bagian yaitu paha bagian belakang dan bagiadepan. Untuk melakukan manipulasi massage seluruh tubuh biasanya masseur akan memulai dari tubuh bagian belakang terlebih dahulu dan diawali dari tungkai atas, manipuasi apa yang tepat pada tungkai atas atau paha …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6FiSK9fINTO" displaytext="Sebagai seorang mesiur harus mengetahui dan bisa menentukan manipulasi yang diberikan pada saat melakukan massage. Dalam manipulasi tungkai bawah dibagi menjadi dua bagian yaitu betis bagian belakang dan bagian depan. Manipulasi yang tepat pada betis adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6mSRfQ71nvv" displaytext="Sebagai seorang mesiur harus mengetahui dan bisa menentukan manipulasi yang diberikan pada saat melakukan massage. Manipulasi pada kaki dibagi menjadi 2 yaitu pada yang tepat yang diberikan pada telapak kaki dan punggung kaki adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.5xVpz2IipQf" displaytext="Perhatikan gambar dibawah ini!&#xA;&#xA;&#xA;&#xA;&#xA;Teknik ini seperti pada gambar dilakukan Dapat dilakukan dengan cara, satu tangan memegang pergelangan kaki pasien. Tangan yang lain memegang. Pengerjaannya dilakukan selama 1 menit 30 detik sampai 2 menit. Berdasarkan gambar dan penjelasan tersebut, maka teknik massage yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.5Ws1T7Q26cN" displaytext="Perhatikan gambar dibawah ini!&#xA;&#xA;&#xA;&#xA;&#xA;Teknik massage seperti gambar tersebut dilakukan dengan maksud untuk menempatkan bangunan-bangunan dibawah kulit (otot, pembuluh darah, persyarafan) pada tempatnya masing-masing dan bertujuan untuk memudahkan pengaliran atau pertukaran zat dalam&#xD;bangunan-bangunan tersebut, pada tempatnya masing-masing. Dari gambar dan penjelasan tersebut, maka jenis massage yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.5vL0YLMXC4R" displaytext="Sebagai seorang mesiur harus mengetahui dan bisa menentukan manipulasi yang diberikan pada saat melakukan massage. Dalam manipulasi punggung dengan jumlah otot yang berbeda. Manipulasi yang tepat adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6po6RKQrPMm" displaytext="Teknik massage yang dilakukan ini bermaksud untuk mempunyai tonus otot syaraf vegetatior (tak sadar) pada jaringan perifeer (tepi) serta dapat mempertinggi tonus otot dan mempergiat peredaran darah pada kulit. Maksud dan tujuan tersebut di tunjukan seperti gambar dibawah ini!&#xA;&#xA;&#xA;&#xA;&#xA;Berdasarkan penjelasan gambar tersebut, maka teknik massage yang sesuai adalah …" expand="false" type="slide" />
+            <slidelink slideid="_player.5zmSX6D5K8P.6m0x496dexe" displaytext="Seorang atlet bulu tangkis setelah mengikuti pertandingan mengalami kelelahan pada otot pada ektrimitas atas pada otot tricep, biceps, ekstensor di gitorum setelah melakukan aktivitas, penumpukan asam laktak pada daerah otot tersebut, perlu diberikan massage. Dari pernyataan di atas, tentukan massa apa yang cocok, arah gerakan tangan dan manipulasi yang diberikan sehingga memberikan kebugaran pada atlet tersebut?" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
